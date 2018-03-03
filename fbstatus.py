@@ -1,3 +1,6 @@
+# Distro: Kali Linux
+# Author: Nishant Parhi
+
 import mechanize
 import cookielib
 import sys
