@@ -1,4 +1,4 @@
 # FBsatatus
-Upload you Facebook status from a linux terminal
+Upload your Facebook status from a linux terminal
  ### How to use
      python fbstatus.py
